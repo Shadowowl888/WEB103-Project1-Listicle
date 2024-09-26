@@ -32,7 +32,8 @@ The following **additional** features are implemented:
 **Note: please be sure to 
 
 Here's a walkthrough of implemented required features:
-<img src='https://i.imgur.com/ymRbuUp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/ymRbuUp.gif' title='Video Walkthrough' alt='Video Walkthrough' />
+<img src='./Project1-GridIronScout.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LICEcap](https://www.cockos.com/licecap/)
