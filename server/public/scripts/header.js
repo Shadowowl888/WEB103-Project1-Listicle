@@ -25,6 +25,24 @@ headerButton.addEventListener("click", function handleClick(event) {
   window.location = "/";
 });
 
+// Header search bar
+const searchForm = document.createElement("form");
+searchForm.className = "search-form";
+
+const searchInput = document.createElement("input");
+searchInput.type = "text";
+searchInput.placeholder = "Search player...";
+searchInput.className = "search-input";
+searchInput.name = "playerName";
+
+searchInput.addEventListener("input", function() {
+  const playerName = searchInput.value.trim().toLowerCase();
+  filterPlayersByName(playerName);  // Call filter function from players.js
+});
+
+searchForm.appendChild(searchInput);
+
+headerRight.appendChild(searchForm);
 headerRight.appendChild(headerButton);
 
 headerContainer.appendChild(headerLeft);

@@ -84,7 +84,7 @@ const playerData = [
     "name": "Josh Allen",
     "team": "Buffalo Bills",
     "position": "Quarterback",
-    "image": "https://cdn.vox-cdn.com/thumbor/VwCqausEf4cyxGSbE3lgjNCDpII=/0x0:7334x4889/1200x800/filters:focal(3197x171:4369x1343)/cdn.vox-cdn.com/uploads/chorus_image/image/73606650/usa_today_24309199.0.jpg",
+    "image": "https://static.www.nfl.com/image/upload/t_editorial_landscape_mobile/f_auto/league/ptpljcqitfgjolra7elw.jpg",
     "description": "Dual-threat quarterback known for his strong arm and mobility.",
     "submittedBy": "Brandon",
     "submittedOn": "2023-01-10T14:48:00"
