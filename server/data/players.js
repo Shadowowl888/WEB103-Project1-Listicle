@@ -24,7 +24,7 @@ const playerData = [
     "name": "Travis Etienne",
     "team": "Jacksonville Jaguars",
     "position": "Running Back",
-    "image": "https://images2.minutemediacdn.com/image/upload/c_fill,w_1200,ar_1:1,f_auto,q_auto,g_auto/shape/cover/sport/https-3A-2F-2Fblackandteal-com-2Fwp-content-2Fuploads-2Fimagn-images-2F2017-2F07-2F18861006-850x560-fcc6d148c0ab2f979b76f466721b3ddbc2401caff24bbd0beaafcb1cafa8b862.jpg",
+    "image": "https://statico.profootballnetwork.com/wp-content/uploads/2024/10/01134949/travis-etienne-injury-update-week-5-2024-1920x1280.jpg",
     "description": "Explosive runner with great speed and pass-catching ability.",
     "submittedBy": "Mario",
     "submittedOn": "2022-09-13T11:01:00"
