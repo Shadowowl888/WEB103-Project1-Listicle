@@ -50,6 +50,17 @@
   width: 80px;
 }
 
+.search-form {
+  margin-right: 15px;
+}
+
+.search-input {
+  padding: 5px;
+  font-size: 16px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
 /* Home page CSS */
 
 main {

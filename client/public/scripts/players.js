@@ -1,7 +1,7 @@
 const renderPlayers = async () => {
   const response = await fetch("/players");
   const data = await response.json();
-  
+
   const mainContent = document.getElementById("main-content");
   
   if (data) {
